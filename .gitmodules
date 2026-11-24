@@ -1,0 +1,3 @@
+[submodule "sveltekit-supabase-shadcn"]
+	path = sveltekit-supabase-shadcn
+	url = https://github.com/shaik-noor/starter-sveltekit-supabase-shadcn.git
